@@ -12,7 +12,7 @@ public class DataHelper {
         return new VerificationCode("12345");
     }
     public static AuthInfo getAuthInfo() {
-        return new AuthInfo("vasya", "qwerty123");
+        return new AuthInfo("petya", "123qwerty");
     }
 
     public static CardInfo getFirstCardInfo() {
